@@ -1,0 +1,79 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 10px;
+    background-color: rgb(120, 199, 111);
+    
+    
+}
+
+h1 {
+
+    
+    color: rgb(120, 199, 111);
+    padding: 10px;
+    background-color: #222222;
+    border-radius: 10px;
+    width: 512px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+}
+
+
+
+canvas {
+    
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+   
+}
+
+p {
+    color: rgb(120, 199, 111);
+    padding: 10px;
+    background-color: #222222;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width: 512px; 
+    box-sizing: border-box; 
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+    
+}
+
+button {
+    
+    padding: 10px;
+    background-color: #222222;
+    border-radius: 10px;
+    color: rgb(120, 199, 111);
+    border: none;
+    box-sizing: border-box;
+    margin: 0 auto;
+    cursor: pointer;
+    width: 255px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.2);
+   
+    font-size: medium;
+}
+
+button:hover {
+    background-color: #ffffff;
+    
+}
+
+footer {
+
+    padding: 10px;
+    color: rgb(120, 199, 111);
+    background-color: #222222;
+    border-radius: 10px;
+    max-width: 512px;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 10px;
+}
